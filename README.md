@@ -70,7 +70,7 @@ This wasn't just a refresher—it was a deep dive into the modern AI landscape.
 ## 🤝 Connect
 If you find these projects interesting or want to discuss AI, feel free to connect!
 
-* [**LinkedIn**](https://www.linkedin.com/in/darshanskreddy)
+* [**LinkedIn**](https://www.linkedin.com/in/skdarshanve)
 * [**GitHub**](https://github.com/DarshanSKReddy)
 
 ---

@@ -4,6 +4,9 @@
 ![Projects](https://img.shields.io/badge/Projects-21%2F21-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20Deep%20Learning%20%7C%20Agents-orange?style=for-the-badge)
 
+Name : Darshan S K
+complexboyskdv@gmail.com
+
 Welcome to my **21-day AI marathon**! 🏃‍♂️💨
 
 This repository documents my journey through the **21 Projects in 21 Days** challenge hosted by **GeeksforGeeks**. Over the course of three weeks, I moved from fundamental Machine Learning concepts to building cutting-edge Generative AI applications, Autonomous Agents, and Production Pipelines.

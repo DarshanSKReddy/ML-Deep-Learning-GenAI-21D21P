@@ -75,6 +75,6 @@ If you find these projects interesting or want to discuss AI, feel free to conne
 
 * [**LinkedIn**](https://www.linkedin.com/in/skdarshanve)
 * [**GitHub**](https://github.com/DarshanSKReddy)
-
+* [**Gmail**](complexboyskdv@gmail.com)
 ---
 *Huge thanks to GeeksforGeeks for organizing this challenge!*
